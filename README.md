@@ -1,3 +1,7 @@
+[![MasterHead](https://github.com/CosmicCodeBase/CosmicCodeBase/blob/main/Banner.png?raw=true)](https://cosmiccodebase.github.com)
+
+
+
 ### 👋 Hi there and welcome to CosmicCodeBase! 
 
 #### I'm a passionated technology lover based in Malaysia. 
